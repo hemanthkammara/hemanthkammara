@@ -1,25 +1,36 @@
-<div align="center">
-  <h1 align="center">Hi 👋, I'm Kammara Hemanth Kumar</h1>
-<h3 align="center">A passionate Mern developer from India</h3>
+<h1 align="center"> Hi, I'm Kammara Hemanth Kumar👋</h1> 
+<br/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hemanthkammara&label=Profile%20views&color=0e75b6&style=flat" alt="hemanthkammara" /> </p>
+<h2>Full Stack Web Developer</h2>
 
-Check out my portfolio [here](https://hemanthkammara.github.io).
+<h3>💫 About Me:</h3>
+Skilled full-stack web developer in MERN. Experienced in solo and team projects.Ready to play a role in impactful web development endeavors.
+<br/> 
 
-<h3 align="left">Connect with me:</h3>
+### 💼 Portfolio:  <a href='https://hemanthkammara.github.io/'>https://hemanthkammara.github.io/</a>
+
+####  🔗 LinkedIn: <a href="https://www.linkedin.com/in/hemanth-kumar-kammara/">linkedin.com/in/hemanth-kumar-kammara/</a>
+####  📨 Mail:<a href="mailto:hemanthcr217@gmail.com">hemanthcr217@gmail.com</a>
+      
+
+
+
+### 💻 Tech Stack:
+<br/>
 <p align="left">
-<a href="https://linkedin.com/in/hemanth-kumar-kammara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hemanth-kumar-kammara" height="30" width="40" /></a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,git,react,redux,nodejs,express,mongodb" />
+  </a>
 </p>
 
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hemanthkammara&theme=2077" height="180em" />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### 📊 GitHub Stats:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hemanthkammara&show_icons=true&locale=en&layout=compact" alt="hemanthkammara" /></p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hemanthkammara&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api?username=hemanthkammara&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hemanthkammara&theme=transparent&" alt="hemanthkammara" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hemanthkammara&show_icons=true&locale=en" alt="hemanthkammara" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hemanthkammara&" alt="hemanthkammara" /></p>
 
-</div>
+
+ 
