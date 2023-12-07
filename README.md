@@ -26,8 +26,8 @@ Skilled full-stack web developer in MERN. Experienced in solo and team projects.
 
 ### 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hemanthkammara&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
-![](https://github-readme-stats.vercel.app/api?username=hemanthkammara&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hemanthkammara&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=hemanthkammara&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hemanthkammara&theme=transparent&" alt="hemanthkammara" /></p>
 
 
